@@ -1,1 +1,1 @@
-../twiml.php
+<?php require __DIR__ . '/../twiml.php';
