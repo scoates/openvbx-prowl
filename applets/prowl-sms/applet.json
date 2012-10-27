@@ -1,0 +1,5 @@
+{
+    "name": "Prowl this message",
+    "description": "Send a prowl about this message",
+    "type": "sms"
+}
